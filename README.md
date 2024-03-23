@@ -26,8 +26,7 @@ print(result)
 ```
 ## Output:
 
-![Screenshot 2024-03-09 152146](https://github.com/Nandakesore0210/INVERSE-OF-A-MATRIX/assets/149365088/86c6eefa-639b-4eb2-9dc9-c6e1b9cfc140)
-
+![image](https://github.com/Nandakesore0210/INVERSE-OF-A-MATRIX/assets/149365088/7778f2a4-89f1-42fe-bc02-6b1883db3096)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
