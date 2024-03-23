@@ -26,7 +26,7 @@ print(result)
 ```
 ## Output:
 
-![Screenshot 2024-03-09 152146](https://github.com/Nandakesore0210/INVERSE-OF-A-MATRIX/assets/149365088/86c6eefa-639b-4eb2-9dc9-c6e1b9cfc140)
+![alt text](image.png)
 
 
 ## Result:
